@@ -50,9 +50,35 @@ army green: 41521F;
 }
 
 .info-section-dos {
-    margin-top: 300px;
+    margin-top: 200px;
 }
 
-.title-info-section-dos {
+.title-info-section-dos,
+.see-more {
     color: #a69c67;
+}
+
+
+/* Sección 3 */
+
+.section-tres {
+    background-color: #a69c67;
+    margin-bottom: 60px;
+}
+
+.info-section-tres {
+    margin-top: 60px;
+}
+
+.title-section-tres {
+    color: #41521f;
+}
+
+.text-section-tres {
+    color: white;
+}
+
+.panda-tres {
+    text-align: center;
+    margin-bottom: 80px;
 }
