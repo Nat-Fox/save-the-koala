@@ -47,6 +47,7 @@ army green: 41521F;
 
 .img-3 {
     margin-top: 60px;
+    margin-bottom: 100px;
 }
 
 .info-section-dos {
@@ -63,7 +64,6 @@ army green: 41521F;
 
 .section-tres {
     background-color: #a69c67;
-    margin-bottom: 60px;
 }
 
 .info-section-tres {
@@ -81,4 +81,22 @@ army green: 41521F;
 .panda-tres {
     text-align: center;
     margin-bottom: 80px;
+    border: 7px solid white;
+}
+
+
+/* Sección 4 */
+
+.img-all {
+    background-image: url(../img/all.jpg);
+    /* Utilizará el 100% del alto de la pantalla */
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text-img-all {
+    color: white;
+    margin-left: 600px;
 }
