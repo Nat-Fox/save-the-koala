@@ -22,9 +22,20 @@ army green: 41521F;
 /* Color de la navbar */
 
 .navbar-default .navbar-brand {
+    text-shadow: 1px 1px 1px #aaa;
     color: #FFFFFF;
 }
 
 .navbar-default .navbar-nav>li>a {
+    text-shadow: 1px 1px 1px #aaa;
     color: #FFFFFF;
+}
+
+.text-home {
+    color: #FFFFFF;
+    padding-top: 400px;
+}
+
+.btn {
+    background-color: green;
 }
