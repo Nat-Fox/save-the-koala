@@ -3,6 +3,10 @@ wood brown: A89F68;
 army green: 41521F;
 */
 
+* {
+    font-family: 'Lato';
+}
+
 .navbar-default {
     /*background-color: red;*/
     background-color: transparent;
@@ -51,7 +55,7 @@ army green: 41521F;
 }
 
 .info-section-dos {
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
 .title-info-section-dos,
@@ -98,5 +102,28 @@ army green: 41521F;
 
 .text-img-all {
     color: white;
-    margin-left: 600px;
+}
+
+.text-section-cuatro {
+    margin-top: 50px;
+}
+
+
+/* seccion 5 */
+
+.title-section-cinco {
+    margin-top: 100px;
+    text-align: center;
+    color: #a69c67;
+}
+
+.container-icon {
+    color: #a69c67;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text-section-cinco {
+    margin-top: 10px;
+    color: #a69c67;
 }
