@@ -43,7 +43,8 @@ army green: 41521F;
 }
 
 .btn {
-    background-color: green;
+    margin-top: 10px;
+    background-color: #41521f;
 }
 
 
@@ -59,7 +60,8 @@ army green: 41521F;
 }
 
 .title-info-section-dos,
-.see-more {
+.see-more,
+.color-mostaza {
     color: #a69c67;
 }
 
@@ -126,4 +128,64 @@ army green: 41521F;
 .text-section-cinco {
     margin-top: 10px;
     color: #a69c67;
+}
+
+.section-cinco {
+    margin-bottom: 100px;
+}
+
+
+/* seccion 6 */
+
+.section-seis {
+    background-color: #a69c67;
+}
+
+.title-section-seis {
+    color: #41521f;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.content-section-seis {
+    text-align: center;
+}
+
+.money {
+    font-size: 100px;
+}
+
+.white-content {
+    color: white;
+}
+
+.bottom-seis {
+    margin-bottom: 100px;
+}
+
+
+/* section 7 */
+
+.section-siete {
+    background-color: #41521f;
+    /*margin-bottom: 100px;*/
+}
+
+.top-siete {
+    margin-top: 80px;
+}
+
+.col-lg-2 p {
+    cursor: pointer;
+    margin-top: -7px;
+}
+
+.money-symbol {
+    margin-bottom: 60px;
+    position: absolute;
+}
+
+.bottom-80 {
+    padding-bottom: 80px;
 }
